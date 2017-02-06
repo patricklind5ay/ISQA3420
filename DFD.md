@@ -1,1 +1,1 @@
-![DFD](https://github.com/patricklind5ay/ISQA3420/blob/master/DFD.jpg?raw=true)
+![DFD](https://github.com/patricklind5ay/ISQA3420/blob/master/Slide1.JPG?raw=true)
